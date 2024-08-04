@@ -1,4 +1,4 @@
-// File: /Users/leejinkyung/learn-nextjs14/app/about-us/page.tsx
+// File: /Users/leejinkyung/learn-nextjs14/app/about-us/page.jsx
 import * as entry from '../../../../app/about-us/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
